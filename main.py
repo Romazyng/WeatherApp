@@ -22,8 +22,6 @@ def format_response(weather):
 def test_function(entry):
     print('This is the entry:', entry)
 
-# api.openweathermap.org/data/2.5/forecast?q=London,us&mode=xml
-# 7550393428f77def36b6c67a4ec3b08c
 
 def get_weather(city):
     weather_key = '7550393428f77def36b6c67a4ec3b08c'
